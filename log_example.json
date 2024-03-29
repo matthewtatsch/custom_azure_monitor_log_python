@@ -1,0 +1,14 @@
+[
+  {
+    "Message": "This is an informational log",
+    "Level": "info"
+  },
+  {
+    "Message": "This is a warning log",
+    "Level": "warning"
+  },
+  {
+    "Message": "This is an error log",
+    "Level": "error"
+  }
+]
